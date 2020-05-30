@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BookStore.DAL\BookStore.DAL.csproj" />
+    <ProjectReference Include="..\BookStore.Entities\BookStore.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

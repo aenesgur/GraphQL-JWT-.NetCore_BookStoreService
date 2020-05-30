@@ -1,0 +1,8 @@
+C:\Users\enes.gur\Desktop\GraphQL_BookStore\BookStore\BookStore.Entities\bin\Debug\netcoreapp3.1\BookStore.Entities.deps.json
+C:\Users\enes.gur\Desktop\GraphQL_BookStore\BookStore\BookStore.Entities\bin\Debug\netcoreapp3.1\BookStore.Entities.dll
+C:\Users\enes.gur\Desktop\GraphQL_BookStore\BookStore\BookStore.Entities\bin\Debug\netcoreapp3.1\BookStore.Entities.pdb
+C:\Users\enes.gur\Desktop\GraphQL_BookStore\BookStore\BookStore.Entities\obj\Debug\netcoreapp3.1\BookStore.Entities.csprojAssemblyReference.cache
+C:\Users\enes.gur\Desktop\GraphQL_BookStore\BookStore\BookStore.Entities\obj\Debug\netcoreapp3.1\BookStore.Entities.AssemblyInfoInputs.cache
+C:\Users\enes.gur\Desktop\GraphQL_BookStore\BookStore\BookStore.Entities\obj\Debug\netcoreapp3.1\BookStore.Entities.AssemblyInfo.cs
+C:\Users\enes.gur\Desktop\GraphQL_BookStore\BookStore\BookStore.Entities\obj\Debug\netcoreapp3.1\BookStore.Entities.dll
+C:\Users\enes.gur\Desktop\GraphQL_BookStore\BookStore\BookStore.Entities\obj\Debug\netcoreapp3.1\BookStore.Entities.pdb
