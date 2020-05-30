@@ -10,7 +10,7 @@ GraphQL technology was combined with .Net Core 3.1 and a simple Book Store servi
     surname
     citizen
       books{
-		name
+	name
       	description
       	isStock
       	price
@@ -27,7 +27,7 @@ GraphQL technology was combined with .Net Core 3.1 and a simple Book Store servi
     surname
     citizen
       books(piece : 1){
-		name
+	name
       	description
       	isStock
       	price
@@ -45,7 +45,7 @@ GraphQL technology was combined with .Net Core 3.1 and a simple Book Store servi
     surname
     citizen
       books(piece : 1) {
-		name
+	name
       	description
       }
   }
