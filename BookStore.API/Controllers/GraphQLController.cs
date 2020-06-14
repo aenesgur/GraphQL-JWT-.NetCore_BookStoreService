@@ -1,6 +1,7 @@
 ﻿using BookStore.API.GraphQL;
 using GraphQL;
 using GraphQL.Types;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -10,6 +11,7 @@ using System.Threading.Tasks;
 namespace BookStore.API.Controllers
 {
     [Route("[controller]")]
+    [Authorize]
     public class GraphQLController : Controller
     {
         private readonly ISchema _schema;
@@ -19,6 +21,13 @@ namespace BookStore.API.Controllers
         {
             _schema = schema;
             _documentExecuter = documentExecuter;
+        }
+
+        [HttpGet]
+        public IActionResult Get()
+        {
+            var entryText = "Hello, welcome to my GraphQL sample app :))";
+            return Ok(entryText);
         }
 
         [HttpPost]

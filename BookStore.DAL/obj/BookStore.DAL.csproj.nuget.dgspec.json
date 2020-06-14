@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\enes.gur\\Desktop\\GraphQL_BookStore\\BookStore\\BookStore.DAL\\BookStore.DAL.csproj": {}
+    "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.DAL\\BookStore.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\enes.gur\\Desktop\\GraphQL_BookStore\\BookStore\\BookStore.DAL\\BookStore.DAL.csproj": {
+    "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.DAL\\BookStore.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enes.gur\\Desktop\\GraphQL_BookStore\\BookStore\\BookStore.DAL\\BookStore.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.DAL\\BookStore.DAL.csproj",
         "projectName": "BookStore.DAL",
-        "projectPath": "C:\\Users\\enes.gur\\Desktop\\GraphQL_BookStore\\BookStore\\BookStore.DAL\\BookStore.DAL.csproj",
+        "projectPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.DAL\\BookStore.DAL.csproj",
         "packagesPath": "C:\\Users\\enes.gur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enes.gur\\Desktop\\GraphQL_BookStore\\BookStore\\BookStore.DAL\\obj\\",
+        "outputPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\enes.gur\\Desktop\\GraphQL_BookStore\\BookStore\\BookStore.Entities\\BookStore.Entities.csproj": {
-                "projectPath": "C:\\Users\\enes.gur\\Desktop\\GraphQL_BookStore\\BookStore\\BookStore.Entities\\BookStore.Entities.csproj"
+              "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.Entities\\BookStore.Entities.csproj": {
+                "projectPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.Entities\\BookStore.Entities.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\enes.gur\\Desktop\\GraphQL_BookStore\\BookStore\\BookStore.Entities\\BookStore.Entities.csproj": {
+    "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.Entities\\BookStore.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enes.gur\\Desktop\\GraphQL_BookStore\\BookStore\\BookStore.Entities\\BookStore.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.Entities\\BookStore.Entities.csproj",
         "projectName": "BookStore.Entities",
-        "projectPath": "C:\\Users\\enes.gur\\Desktop\\GraphQL_BookStore\\BookStore\\BookStore.Entities\\BookStore.Entities.csproj",
+        "projectPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.Entities\\BookStore.Entities.csproj",
         "packagesPath": "C:\\Users\\enes.gur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enes.gur\\Desktop\\GraphQL_BookStore\\BookStore\\BookStore.Entities\\obj\\",
+        "outputPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

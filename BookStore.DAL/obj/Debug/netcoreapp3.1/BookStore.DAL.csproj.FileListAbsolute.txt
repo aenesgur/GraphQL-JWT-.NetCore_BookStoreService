@@ -12,3 +12,17 @@ C:\Users\enes.gur\Desktop\GraphQL_BookStore\BookStore\BookStore.DAL\obj\Debug\ne
 C:\Users\enes.gur\Desktop\GraphQL_BookStore\BookStore\BookStore.DAL\obj\Debug\netcoreapp3.1\BookStore.DAL.dll
 C:\Users\enes.gur\Desktop\GraphQL_BookStore\BookStore\BookStore.DAL\obj\Debug\netcoreapp3.1\BookStore.DAL.pdb
 C:\Users\enes.gur\Desktop\GraphQL_BookStore\BookStore\BookStore.DAL\obj\Debug\netcoreapp3.1\BookStore.DAL.genruntimeconfig.cache
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL_BookStore\BookStore\BookStore.DAL\bin\Debug\netcoreapp3.1\BookStore.DAL.deps.json
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL_BookStore\BookStore\BookStore.DAL\bin\Debug\netcoreapp3.1\BookStore.DAL.runtimeconfig.json
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL_BookStore\BookStore\BookStore.DAL\bin\Debug\netcoreapp3.1\BookStore.DAL.runtimeconfig.dev.json
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL_BookStore\BookStore\BookStore.DAL\bin\Debug\netcoreapp3.1\BookStore.DAL.dll
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL_BookStore\BookStore\BookStore.DAL\bin\Debug\netcoreapp3.1\BookStore.DAL.pdb
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL_BookStore\BookStore\BookStore.DAL\bin\Debug\netcoreapp3.1\BookStore.Entities.dll
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL_BookStore\BookStore\BookStore.DAL\bin\Debug\netcoreapp3.1\BookStore.Entities.pdb
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL_BookStore\BookStore\BookStore.DAL\obj\Debug\netcoreapp3.1\BookStore.DAL.csprojAssemblyReference.cache
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL_BookStore\BookStore\BookStore.DAL\obj\Debug\netcoreapp3.1\BookStore.DAL.AssemblyInfoInputs.cache
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL_BookStore\BookStore\BookStore.DAL\obj\Debug\netcoreapp3.1\BookStore.DAL.AssemblyInfo.cs
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL_BookStore\BookStore\BookStore.DAL\obj\Debug\netcoreapp3.1\BookStore.DAL.csproj.CopyComplete
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL_BookStore\BookStore\BookStore.DAL\obj\Debug\netcoreapp3.1\BookStore.DAL.dll
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL_BookStore\BookStore\BookStore.DAL\obj\Debug\netcoreapp3.1\BookStore.DAL.pdb
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL_BookStore\BookStore\BookStore.DAL\obj\Debug\netcoreapp3.1\BookStore.DAL.genruntimeconfig.cache
