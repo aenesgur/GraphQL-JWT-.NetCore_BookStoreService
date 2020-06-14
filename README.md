@@ -1,6 +1,6 @@
-### Book Store Service with GraphQL
+### Book Store Service with GraphQL and JWT
 
-GraphQL technology was combined with .Net Core 3.1 and a simple Book Store service was developed. Query and Mutations queries have been added and SeedData added. Adding Book and Author in the associated database can be inserted with mutations. Just change the ConnectionString and run :) 
+GraphQL and JWT technologies was combined with .Net Core 3.1 and a simple Book Store service was developed. Query and Mutations queries have been added and SeedData added. Adding Book and Author in the associated database can be inserted with mutations. Just change the ConnectionString and run :) 
 
 #### Authentication:
 > $ Register to identity server. Post request to "http://localhost:54811/api/authentication/register"
