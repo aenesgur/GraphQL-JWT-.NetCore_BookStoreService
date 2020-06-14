@@ -23,13 +23,6 @@ namespace BookStore.API.Controllers
             _documentExecuter = documentExecuter;
         }
 
-        [HttpGet]
-        public IActionResult Get()
-        {
-            var entryText = "Hello, welcome to my GraphQL sample app :))";
-            return Ok(entryText);
-        }
-
         [HttpPost]
         public async Task<IActionResult> Post([FromBody]GraphQLQuery query)
         {

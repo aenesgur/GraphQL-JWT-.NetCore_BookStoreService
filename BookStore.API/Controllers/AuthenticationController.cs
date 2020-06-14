@@ -23,6 +23,13 @@ namespace BookStore.API.Controllers
             _configuration = configuration;
         }
 
+        [HttpGet]
+        public IActionResult Get()
+        {
+            var entryText = "Hello, welcome to my GraphQL sample app. To get token, firstly register after that login to server :))";
+            return Ok(entryText);
+        }
+
         // /api/authentication/register
         [HttpPost("Register")]
         public async Task<IActionResult> RegisterAsync([FromBody]RegisterModel model)
