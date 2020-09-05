@@ -1,6 +1,10 @@
-### Book Store Service with GraphQL and JWT
+### Book Store Service with GraphQL, JWT, Serilog, Kibana, Elasticsearch 
 
-GraphQL and JWT technologies was combined with .Net Core 3.1 and a simple Book Store service was developed. Query and Mutations queries have been added and SeedData added. Adding Book and Author in the associated database can be inserted with mutations. Just change the ConnectionString and run :) 
+GraphQL, JWT, Serilog(with Kibana and Elasticsearch to monitoring logs) technologies was combined with .Net Core 3.1 and a simple Book Store service was developed. Query and Mutations queries have been added and SeedData added. Adding Book and Author in the associated database can be inserted with mutations. Just change the ConnectionString and run :) 
+
+#### Monitoring the logs with Kibana
+###### Before starting the app, enter the project file and write "docker-compose up" in command line. If you have Elasticsearch and Kibana images in your Docker, it will run. If not, it will pull from DockerHub, install and run. After the docker images up, you can go to these links from browser to check if its run correctly  http://localhost:9200/ , http://localhost:5601/ . After you run the project you can set the Index name from Manage Space and then Index pattern in Kibana and monitor the logs in Discover section 
+![kibana-monitoring](https://user-images.githubusercontent.com/47754791/92304194-69ebbd00-ef84-11ea-86b4-6dfebbb59f41.PNG)
 
 #### Authentication:
 > $ Register to identity server. Post request to "http://localhost:54811/api/authentication/register"
