@@ -9,3 +9,14 @@ C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL_BookStore\BookStore\BookStore
 C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL_BookStore\BookStore\BookStore.Identity\bin\Debug\netcoreapp3.1\BookStore.Entities.dll
 C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL_BookStore\BookStore\BookStore.Identity\bin\Debug\netcoreapp3.1\BookStore.Entities.pdb
 C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL_BookStore\BookStore\BookStore.Identity\obj\Debug\netcoreapp3.1\BookStore.Identity.csproj.CopyComplete
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL-JWT_BookStore\BookStore\BookStore.Identity\bin\Debug\netcoreapp3.1\BookStore.Identity.deps.json
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL-JWT_BookStore\BookStore\BookStore.Identity\bin\Debug\netcoreapp3.1\BookStore.Identity.dll
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL-JWT_BookStore\BookStore\BookStore.Identity\bin\Debug\netcoreapp3.1\BookStore.Identity.pdb
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL-JWT_BookStore\BookStore\BookStore.Identity\bin\Debug\netcoreapp3.1\BookStore.Entities.dll
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL-JWT_BookStore\BookStore\BookStore.Identity\bin\Debug\netcoreapp3.1\BookStore.Entities.pdb
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL-JWT_BookStore\BookStore\BookStore.Identity\obj\Debug\netcoreapp3.1\BookStore.Identity.csprojAssemblyReference.cache
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL-JWT_BookStore\BookStore\BookStore.Identity\obj\Debug\netcoreapp3.1\BookStore.Identity.AssemblyInfoInputs.cache
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL-JWT_BookStore\BookStore\BookStore.Identity\obj\Debug\netcoreapp3.1\BookStore.Identity.AssemblyInfo.cs
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL-JWT_BookStore\BookStore\BookStore.Identity\obj\Debug\netcoreapp3.1\BookStore.Identity.csproj.CopyComplete
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL-JWT_BookStore\BookStore\BookStore.Identity\obj\Debug\netcoreapp3.1\BookStore.Identity.dll
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL-JWT_BookStore\BookStore\BookStore.Identity\obj\Debug\netcoreapp3.1\BookStore.Identity.pdb

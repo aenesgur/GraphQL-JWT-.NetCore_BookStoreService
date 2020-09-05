@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.Business\\BookStore.Business.csproj": {}
+    "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL-JWT_BookStore\\BookStore\\BookStore.Business\\BookStore.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.Business\\BookStore.Business.csproj": {
+    "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL-JWT_BookStore\\BookStore\\BookStore.Business\\BookStore.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.Business\\BookStore.Business.csproj",
+        "projectUniqueName": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL-JWT_BookStore\\BookStore\\BookStore.Business\\BookStore.Business.csproj",
         "projectName": "BookStore.Business",
-        "projectPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.Business\\BookStore.Business.csproj",
+        "projectPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL-JWT_BookStore\\BookStore\\BookStore.Business\\BookStore.Business.csproj",
         "packagesPath": "C:\\Users\\enes.gur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.Business\\obj\\",
+        "outputPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL-JWT_BookStore\\BookStore\\BookStore.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,11 +31,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.DAL\\BookStore.DAL.csproj": {
-                "projectPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.DAL\\BookStore.DAL.csproj"
+              "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL-JWT_BookStore\\BookStore\\BookStore.DAL\\BookStore.DAL.csproj": {
+                "projectPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL-JWT_BookStore\\BookStore\\BookStore.DAL\\BookStore.DAL.csproj"
               },
-              "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.Entities\\BookStore.Entities.csproj": {
-                "projectPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.Entities\\BookStore.Entities.csproj"
+              "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL-JWT_BookStore\\BookStore\\BookStore.Entities\\BookStore.Entities.csproj": {
+                "projectPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL-JWT_BookStore\\BookStore\\BookStore.Entities\\BookStore.Entities.csproj"
               }
             }
           }
@@ -59,6 +59,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -67,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.DAL\\BookStore.DAL.csproj": {
+    "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL-JWT_BookStore\\BookStore\\BookStore.DAL\\BookStore.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.DAL\\BookStore.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL-JWT_BookStore\\BookStore\\BookStore.DAL\\BookStore.DAL.csproj",
         "projectName": "BookStore.DAL",
-        "projectPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.DAL\\BookStore.DAL.csproj",
+        "projectPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL-JWT_BookStore\\BookStore\\BookStore.DAL\\BookStore.DAL.csproj",
         "packagesPath": "C:\\Users\\enes.gur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.DAL\\obj\\",
+        "outputPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL-JWT_BookStore\\BookStore\\BookStore.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -94,8 +97,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.Entities\\BookStore.Entities.csproj": {
-                "projectPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.Entities\\BookStore.Entities.csproj"
+              "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL-JWT_BookStore\\BookStore\\BookStore.Entities\\BookStore.Entities.csproj": {
+                "projectPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL-JWT_BookStore\\BookStore\\BookStore.Entities\\BookStore.Entities.csproj"
+              },
+              "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL-JWT_BookStore\\BookStore\\BookStore.Log\\BookStore.Log.csproj": {
+                "projectPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL-JWT_BookStore\\BookStore\\BookStore.Log\\BookStore.Log.csproj"
               }
             }
           }
@@ -145,6 +151,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -153,14 +162,14 @@
         }
       }
     },
-    "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.Entities\\BookStore.Entities.csproj": {
+    "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL-JWT_BookStore\\BookStore\\BookStore.Entities\\BookStore.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.Entities\\BookStore.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL-JWT_BookStore\\BookStore\\BookStore.Entities\\BookStore.Entities.csproj",
         "projectName": "BookStore.Entities",
-        "projectPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.Entities\\BookStore.Entities.csproj",
+        "projectPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL-JWT_BookStore\\BookStore\\BookStore.Entities\\BookStore.Entities.csproj",
         "packagesPath": "C:\\Users\\enes.gur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL_BookStore\\BookStore\\BookStore.Entities\\obj\\",
+        "outputPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL-JWT_BookStore\\BookStore\\BookStore.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -201,6 +210,71 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL-JWT_BookStore\\BookStore\\BookStore.Log\\BookStore.Log.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL-JWT_BookStore\\BookStore\\BookStore.Log\\BookStore.Log.csproj",
+        "projectName": "BookStore.Log",
+        "projectPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL-JWT_BookStore\\BookStore\\BookStore.Log\\BookStore.Log.csproj",
+        "packagesPath": "C:\\Users\\enes.gur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\GraphQL-JWT_BookStore\\BookStore\\BookStore.Log\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\enes.gur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

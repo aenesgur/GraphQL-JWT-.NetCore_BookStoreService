@@ -7,6 +7,6 @@ namespace BookStore.Business.Abstract
 {
     public interface IAuthorManager : IEntityManager<Author>
     {
-        
+        Author GetError();
     }
 }

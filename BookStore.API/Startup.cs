@@ -11,6 +11,8 @@ using BookStore.DAL.Concrete.EfCore;
 using BookStore.Identity;
 using BookStore.Identity.Services;
 using BookStore.Identity.Services.Abstracts;
+using BookStore.Log.Abstract;
+using BookStore.Log.Concrete;
 using GraphQL;
 using GraphQL.Types;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -44,6 +46,7 @@ namespace BookStore.API
             services.AddTransient<IBookDal, BookDal>();
             services.AddTransient<IAuthorManager, AuthorManager>();
             services.AddTransient<IBookManager, BookManager>();
+            services.AddTransient<ILogService, SerilogService>();
 
             services.AddDbContext<BookStoreIdentitydbContext>(options => options.UseSqlServer(Configuration["ConnectionStrings:BookStoreIdentityDb"]));
             services.AddDbContext<BookStoreContext>(options => options.UseSqlServer(Configuration["ConnectionStrings:BookStoreDb"]));

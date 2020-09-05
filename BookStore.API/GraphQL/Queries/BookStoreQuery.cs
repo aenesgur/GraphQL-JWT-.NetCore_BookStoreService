@@ -18,6 +18,10 @@ namespace BookStore.API.GraphQL.Queries
                 arguments: new QueryArguments(new QueryArgument<IntGraphType> { Name = "id" }),
                 resolve: context => authorManager.GetById(context.GetArgument<int>("id")));
 
+            Field<AuthorType>(
+                "get_error",
+                resolve: context => authorManager.GetError());
+
             Field<ListGraphType<BookType>>(
                 "all_books",
                 resolve: contex => bookManager.GetAll());

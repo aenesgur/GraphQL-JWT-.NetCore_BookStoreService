@@ -7,6 +7,6 @@ namespace BookStore.DAL.Abstract
 {
     public interface IAuthorDal : IEntityDal<Author>
     {
-        
+        Author GetError();
     }
 }

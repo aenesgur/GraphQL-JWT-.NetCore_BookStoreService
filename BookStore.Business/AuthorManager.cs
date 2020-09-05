@@ -28,5 +28,10 @@ namespace BookStore.Business
         {
             return _authorDal.GetById(id);
         }
+
+        public Author GetError()
+        {
+            return _authorDal.GetError();
+        }
     }
 }

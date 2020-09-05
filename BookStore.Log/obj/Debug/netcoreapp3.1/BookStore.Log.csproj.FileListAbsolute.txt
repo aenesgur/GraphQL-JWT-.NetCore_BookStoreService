@@ -1,0 +1,8 @@
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL-JWT_BookStore\BookStore\BookStore.Log\bin\Debug\netcoreapp3.1\BookStore.Log.deps.json
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL-JWT_BookStore\BookStore\BookStore.Log\bin\Debug\netcoreapp3.1\BookStore.Log.dll
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL-JWT_BookStore\BookStore\BookStore.Log\obj\Debug\netcoreapp3.1\BookStore.Log.csprojAssemblyReference.cache
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL-JWT_BookStore\BookStore\BookStore.Log\obj\Debug\netcoreapp3.1\BookStore.Log.AssemblyInfoInputs.cache
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL-JWT_BookStore\BookStore\BookStore.Log\obj\Debug\netcoreapp3.1\BookStore.Log.AssemblyInfo.cs
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL-JWT_BookStore\BookStore\BookStore.Log\bin\Debug\netcoreapp3.1\BookStore.Log.pdb
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL-JWT_BookStore\BookStore\BookStore.Log\obj\Debug\netcoreapp3.1\BookStore.Log.dll
+C:\Users\enes.gur\Desktop\Enes\My_Projects\GraphQL-JWT_BookStore\BookStore\BookStore.Log\obj\Debug\netcoreapp3.1\BookStore.Log.pdb

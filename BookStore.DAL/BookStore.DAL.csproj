@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BookStore.Entities\BookStore.Entities.csproj" />
+    <ProjectReference Include="..\BookStore.Log\BookStore.Log.csproj" />
   </ItemGroup>
 
 </Project>
